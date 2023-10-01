@@ -1,2 +1,2 @@
 # first_repo
-My first repository. This is to get me more comfortable with GitHub and help me learn to use the website better,
+My first repository. I am creating this to see how GitHub works and to become more comfortable with it overall.
